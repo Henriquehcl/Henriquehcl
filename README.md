@@ -1,4 +1,4 @@
-## Olá👋, sou o Henrique Lima, Desenvolvedor JR
+## Olá👋, sou o Henrique Correa de Lima
 ### 🧑‍🎓 Formado em Analise e Desenvolvimento de Sistemas
 ### ❤️‍🔥 Apaixonado por programação WEB 🌐
  </br>
