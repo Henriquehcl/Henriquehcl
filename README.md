@@ -60,16 +60,16 @@ Extração inteligente de prazos e eventos utilizando NLP e regras de negócio.
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henriquehcl&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquehcl&layout=compact&theme=github_dark)
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/
-- 📧 Email: seuemail@email.com
+- 💼 LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/henrique-correa-de-lima-2455b7a6/)
+- 📧 Email: henriquehcl@hotmail.com
 
 ---
 
